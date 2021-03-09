@@ -1,0 +1,5 @@
+systick.c:14:6:Init_SysTick	0	static
+systick.c:24:6:SysTick_Handler	0	static
+systick.c:29:12:time_now	0	static
+systick.c:34:6:reset_timer	0	static
+systick.c:39:12:get_timer	0	static
